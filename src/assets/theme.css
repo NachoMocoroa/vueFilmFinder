@@ -1,0 +1,43 @@
+:root {
+  /* --- QUERIES --- */
+  --desktop-query: 768px;
+  --tablet-query: 768px;
+  /* --- DIMENSIONS --- */
+  --max-width: 1250px;
+  --base-width: 300px;
+  --menu-list-width: 253px;
+  /* --- IMAGES --- */
+  --pagination-arrows: url('../assets/img/pagination-arrows.png');
+  /* --- FONTS --- */
+  --app-font: 'Avenir', Helvetica, Arial, sans-serif;
+  --font-title: 24px;
+  --font-title-medium: 20px;
+  --font-title-small: 18px;
+  --font-subtitle: 16px;
+  --font-subtitle-small: 14px;
+  --font-normal: 13px;
+  --font-small: 12px;
+  --font-litle: 10px;
+  --weight-bold: 700;
+  --weight-medium: 500;
+  --weight-normal: 300;
+  /* --- COLORS --- */
+  --black: #000000;
+  --white: #FFFFFF;
+  --white-light: #F0F0F0;
+  --grey-blue: #172C50;
+  --grey-regular: #2C3E50;
+  --grey-dark: #202020;
+  --grey-medium: #333333;
+  --grey-normal: #757575;
+  --grey-light: #999999;
+  --grey-lighter: #DEDEDE;
+  --blue-normal: #4285f4;
+  --button-bg: #172c50;
+  --error-color: #DD2C00;
+  --outline-color: #5A9AF7;
+  --outline-item: #ff9900;
+  --box-shadow-dark: 0px 5px 15px -2px rgba(0,0,0,0.25);
+  --box-shadow-light: 0px 5px 15px -2px rgba(0,0,0,0.5);
+  --bg-overlay: rgba(0, 0, 0, 0.5);
+}
